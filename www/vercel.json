@@ -1,6 +1,5 @@
 {
   "$schema": "https://vercel.com/schema",
   "version": 2,
-  "rootDirectory": "www",
   "framework": "nextjs"
 } 
